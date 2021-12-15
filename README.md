@@ -1,7 +1,7 @@
 # RobustAirTrafficControl_Python_Demo
 This is the a student program funded by the Marshall Fellowship from Franklin & Marshall College, PA. 
 
-The author of the program is Yusong Deng.
+The author of the program is Yusong Deng. The program started at Fall 2020, as the fellowship been rewarded.
 
 # Background Introduction
 Air traffic control in the terminal area has always been a problem. With the fast development of air transportation industry, 
